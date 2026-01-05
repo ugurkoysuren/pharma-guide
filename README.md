@@ -2,11 +2,7 @@
 
 ---
 
-## **For a detailed walkthrough, visit my blog post:**
 
-# **[https://ugurkoysuren.com/wonderful-job-application](https://ugurkoysuren.com/wonderful-job-application)**
-
----
 
 An AI-powered pharmacist assistant for ACME Retail Pharmacy. Supports chat and voice channels, provides factual medication information, checks inventory, and verifies prescription requirements.
 
